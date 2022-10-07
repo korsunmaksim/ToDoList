@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoURI": "mongodb+srv://maksim:korsun@cluster0.plkjv6g.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "maksim"
+}
